@@ -12,8 +12,7 @@ Automaatioon voidaan myös lisätä testausvaihe, joka voi tarkistaa muun muassa
 
 CI/CD putkiston rakentamine web sovellukselle Github Pages ja Github Actionsin avulla koostuu muun muassa seuraavista vaiheista: koodin integrointi, testaus ja julkaisu. Kehitystyössä voidaan hyödyntää GitHub Actions työnkulkuja, Node js- tai Ruby-pohjaisia testauskirjastoja sekä Dockeria sovelluksen pakkaamiseen. Julkaisu voidaan automatisoida Github Pagesiin GitHub Actions toiminnon avulla, jolloin saavutetaan automatisoitu kehitys- ja julkaisuprosessi ilman manuaalista työtä.
 
-Tämän kappaleen sisällön ideoinnissa on hyödynnett ChatGPT -kielimallia. Syötteenä käytettiin ” Jekyll sivuston automatisointi GitHub Actions toiminnon avulla” ja ” CI/CD -putkiston rakentaminen web sovellukselle.
-”
+Tämän kappaleen sisällön ideoinnissa on hyödynnett ChatGPT 5-kielimallia. Syötteenä käytettiin ”Jekyll sivuston automatisointi GitHub Actions toiminnon avulla” ja ”CI/CD -putkiston rakentaminen web sovellukselle.”
 
 ### Lähteet
 

@@ -1,21 +1,21 @@
 [⬅️ linkki takaisin etusivulle](index.md)
 
-##Tehtävä viikko 2
+## Tehtävä viikko 2
 
-#Jekyll sivuston automatisointi GitHub Actions toiminnon avulla
+# Jekyll sivuston automatisointi GitHub Actions toiminnon avulla
 
 Github Actions -toiminnon avulla voidaan automatisoida Jekyll-sivuston julkaisu. Työnkulussa voidaan määritellä, milloin sivusto rakennetaan ja julkaistaan, mikä vähentää manuaalista työtä ja varmistaa, että sivusto pysyy ajan tasalla.
 
 Automaatioon voidaan myös lisätä testausvaihe, joka voi tarkistaa muun muassa linkkien toimivuuden, sivujen rakennettavuuden ja HTML ja CSS laadun. Näin virheitä voidaan havaita ennen julkaisua.
 
-#CI/CD -putkiston rakentaminen web sovellukselle 
+# CI/CD -putkiston rakentaminen web sovellukselle 
 
 CI/CD putkiston rakentamine web sovellukselle Github Pages ja Github Actionsin avulla koostuu muun muassa seuraavista vaiheista: koodin integrointi, testaus ja julkaisu. Kehitystyössä voidaan hyödyntää GitHub Actions työnkulkuja, Node js- tai Ruby-pohjaisia testauskirjastoja sekä Dockeria sovelluksen pakkaamiseen. Julkaisu voidaan automatisoida Github Pagesiin GitHub Actions toiminnon avulla, jolloin saavutetaan automatisoitu kehitys- ja julkaisuprosessi ilman manuaalista työtä.
 
 Tämän kappaleen sisällön ideoinnissa on hyödynnett ChatGPT -kielimallia. Syötteenä käytettiin ” Jekyll sivuston automatisointi GitHub Actions toiminnon avulla” ja ” CI/CD -putkiston rakentaminen web sovellukselle.
 ”
 
-###Lähteet
+### Lähteet
 
 GitHub Docs: [Build and deploy a Jekyll site using GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 

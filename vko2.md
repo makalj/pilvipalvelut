@@ -1,6 +1,6 @@
 [⬅️ linkki takaisin etusivulle](index.md)
 
-#Tehtävä viikko 2
+# Tehtävä viikko 2
 
 ## Jekyll sivuston automatisointi GitHub Actions toiminnon avulla
 

@@ -1,3 +1,5 @@
+[⬅️ linkki takaisin etusivulle](index.md)
+
 # Tehtävä viikko 5
 
 ## Analytiikan hyödyntäminen sivustolla ja harjoitustehtävässä

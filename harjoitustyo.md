@@ -43,18 +43,20 @@ Sivusto toimii odotetusti suurilla näytöillä. Sisältö on selkeästi jäsenn
 Sivusto on testattu uusimmilla selaimilla, sivusto toimi kaikilla selaimilla. 
 
 **Testatut selaimet ja versiot:**
-•	Safari 26.1
-•	Microsoft Edge 143
-•	Mozilla Firefox 146
-•	Google Chrome 143
+- Safari 26.1
+- Microsoft Edge 143
+- Mozilla Firefox 146
+- Google Chrome 143
 
 **Tulokset**
-•	Sivusto toimi kaikissa testatuissa selaimissa halutulla tavalla
-•	Navigointi, linkit ja sivujen lataus toimivat odotetusti.
+- Sivusto toimi kaikissa testatuissa selaimissa halutulla tavalla
+- Navigointi, linkit ja sivujen lataus toimivat odotetusti.
 
 
-###Sivujen latautumisaika
+### Sivujen latautumisaika
+
 Sivujen latautumisaikaa tarkasteltiin selaimen kehittäjätyökaluilla. Sivusto latautui nopeasti sekä ensimmäisellä latauskerralla että uudelleen ladattaessa.
+
  <img src="kuvat/performance.png" alt="testi pageSpeed Insight desktop" width="300">
 
 Testattu vielä PageSpeed Insight työkalulla: 
@@ -64,9 +66,9 @@ Testattu vielä PageSpeed Insight työkalulla:
 <img src="kuvat/desktop_psi.png" alt="testi pageSpeed Insight desktop" width="400">
  
 **Tulokset:**
-•	Sivujen lataus tapahtui kohtuullisessa ajassa.
-•	Sivusto reagoi nopeasti käyttäjän toimintoihin.
-•	Latausaikoihin vaikuttavia kriittisiä pullonkauloja ei havaittu.
+- Sivujen lataus tapahtui kohtuullisessa ajassa.
+- Sivusto reagoi nopeasti käyttäjän toimintoihin.
+- Latausaikoihin vaikuttavia kriittisiä pullonkauloja ei havaittu.
 
 ### Yhteenveto
 
